@@ -1,0 +1,1 @@
+# Multi-Class-Text-Classification-With-Using-bert-base-turkish-128k-uncased-Model
